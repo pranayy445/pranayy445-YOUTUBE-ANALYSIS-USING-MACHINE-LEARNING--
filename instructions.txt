@@ -1,0 +1,10 @@
+install python 3.7.0
+install all packages from requirements filee
+
+put hadoop folder in c directory and set HADOOP_HOME as c:/hadoop
+and path as c:/hadoop/bin
+
+put spark folder in c directory and set SPARK_HOME as c:/spark-2.4.5-bin-hadoop2.7 and path as 
+C:/spark-2.4.5-bin-hadoop2.7/bin
+
+the  run code
